@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"ee21dd9b-bac5-4876-a30f-3631d075ffdf\"\r\n
+    \   },\r\n    \"rs\": {\r\n      \"key\": \"IsNight\",\r\n      \"value\": true,\r\n
+    \     \"type\": \"bool\"\r\n    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"ee21dd9b-bac5-4876-a30f-3631d075ffdf\"\r\n
+    \   },\r\n    \"rs\": {\r\n      \"key\": \"IsNight\",\r\n      \"value\": true,\r\n
+    \     \"type\": \"bool\"\r\n    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"a76fc435-ffe2-4d2a-a402-2bd8e47aa7fb\",\r\n
+    \   \"name\": \"ATG Battle Ground Testing\",\r\n    \"id\": \"3eebc65e-c55b-487a-b85a-160fa342e580\",\r\n
+    \   \"createdAt\": \"2020-11-12T16:44:32Z\",\r\n    \"updatedAt\": \"2020-11-12T16:44:32Z\",\r\n
+    \   \"isDefault\": true\r\n  }\r\n]"
+  _rulesList: '[]'
+  _lastCachedRulesList: '[]'
